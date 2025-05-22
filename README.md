@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=NfvtQ2p5QG4
 
 1. [Heart Trail Animation](./01.Heart%20Trail%20Animation)
 2. [Auto Text Effect Animation](./02.Auto%20Text%20Effect%20Animation)
-3. [Mini Calendar](./Project03-Mini-Calendar)
+3. [Mini Calendar](.//03.Mini%20Calendar)
 4. [Button Ripple Effect](./Project04-Button-Ripple-Effect)
 5. [Random Photos](./Project05-Random-Photos)
 6. [Dark Mode Toggle](./Project06-Dark-Mode-Toggle)
