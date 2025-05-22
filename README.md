@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=NfvtQ2p5QG4
 2. [Auto Text Effect Animation](./02.Auto%20Text%20Effect%20Animation)
 3. [Mini Calendar](./03.Mini%20Calendar)
 4. [Button Ripple Effect](./04.Button%20Ripple%20Effect)
-5. [Random Photos](./Project05-Random-Photos)
+5. [Random Photos](.05.Random%20Photos)
 6. [Dark Mode Toggle](./Project06-Dark-Mode-Toggle)
 7. [Testimonial Slider](./Project07-Testimonial-Slider)
 8. [Real-Time Character Counter](./Project08-Character-Counter)
