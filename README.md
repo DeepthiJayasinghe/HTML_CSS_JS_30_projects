@@ -34,5 +34,5 @@ https://www.youtube.com/watch?v=NfvtQ2p5QG4
 26. [Tip Calculator](./Project26-Tip-Calculator)
 27. [Loading Bar](./Project27-Loading-Bar)
 28. [Background Image Scroll Effect](./Project28-Background-Scroll-Effect)
-29. [Mouse Event](./Project29-Mouse-Event)
+29. [Mouse Event](./29.Mouse%20Event)
 30. [Dice Roll Simulator](./30.Dice%20Roll%20Simulator)
