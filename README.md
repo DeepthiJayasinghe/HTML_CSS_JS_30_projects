@@ -4,7 +4,7 @@ HTML CSS JS projects (Beginner): 30 projects using HTML CSS and JavaScript by Ja
 **Content**
 ## 🚀 JavaScript Mini Projects
 
-1. [Heart Trail Animation](./main/01.Heart%20Trail%20Animation)
+1. [Heart Trail Animation](./01.Heart%20Trail%20Animation)
 2. [Auto Text Effect Animation](./Project02-Auto-Text-Effect)
 3. [Mini Calendar](./Project03-Mini-Calendar)
 4. [Button Ripple Effect](./Project04-Button-Ripple-Effect)
