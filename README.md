@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=NfvtQ2p5QG4
 24. [Sticky Navbar](./Project24-Sticky-Navbar)
 25. [Random Emoji](./Project25-Random-Emoji)
 26. [Tip Calculator](./Project26-Tip-Calculator)
-27. [Loading Bar](./Project27-Loading-Bar)
+27. [Loading Bar](./27.Loading%20Bar)
 28. [Background Image Scroll Effect](./28.Background%20Image%20Scroll%20Effect)
 29. [Mouse Event](./29.Mouse%20Event)
 30. [Dice Roll Simulator](./30.Dice%20Roll%20Simulator)
