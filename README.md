@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=NfvtQ2p5QG4
 4. [Button Ripple Effect](./04.Button%20Ripple%20Effect)
 5. [Random Photos](.05.Random%20Photos)
 6. [Dark Mode Toggle](./06.Dark%20Mode%20Toggle)
-7. [Testimonial Slider](./Project07-Testimonial-Slider)
+7. [Testimonial Slider](./07.Testimonial%20Slider)
 8. [Real-Time Character Counter](./Project08-Character-Counter)
 9. [Digital Clock](./Project09-Digital-Clock)
 10. [Double Landing Page](./Project10-Double-Landing-Page)
