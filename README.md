@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=NfvtQ2p5QG4
 23. [BMI Calculator](./Project23-BMI-Calculator)
 24. [Sticky Navbar](./Project24-Sticky-Navbar)
 25. [Random Emoji](./Project25-Random-Emoji)
-26. [Tip Calculator](./Project26-Tip-Calculator)
+26. [Tip Calculator](./26.Tip%20Calculator)
 27. [Loading Bar](./27.Loading%20Bar)
 28. [Background Image Scroll Effect](./28.Background%20Image%20Scroll%20Effect)
 29. [Mouse Event](./29.Mouse%20Event)
