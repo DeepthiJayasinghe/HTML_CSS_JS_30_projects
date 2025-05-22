@@ -1,8 +1,10 @@
 # HTML CSS JS 30 projects
 HTML CSS JS projects (Beginner): 30 projects using HTML CSS and JavaScript by JavaScript King(Youtube)
 
-**Content**
-## 🚀 JavaScript Mini Projects
+https://www.youtube.com/watch?v=NfvtQ2p5QG4
+
+
+## 🚀 Content
 
 1. [Heart Trail Animation](./01.Heart%20Trail%20Animation)
 2. [Auto Text Effect Animation](./02.Auto%20Text%20Effect%20Animation)
