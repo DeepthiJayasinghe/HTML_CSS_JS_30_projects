@@ -35,4 +35,4 @@ https://www.youtube.com/watch?v=NfvtQ2p5QG4
 27. [Loading Bar](./Project27-Loading-Bar)
 28. [Background Image Scroll Effect](./Project28-Background-Scroll-Effect)
 29. [Mouse Event](./Project29-Mouse-Event)
-30. [Dice Roll Simulator](./Project30-Dice-Roll-Simulator)
+30. [Dice Roll Simulator](./30.Dice%20Roll%20Simulator)
