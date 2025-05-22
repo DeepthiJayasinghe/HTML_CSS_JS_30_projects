@@ -2,33 +2,35 @@
 HTML CSS JS projects (Beginner): 30 projects using HTML CSS and JavaScript by JavaScript King(Youtube)
 
 **Content**
-Project 1 - Heart Trail Animation
-Project 2 - Auto Text Effect Animation
-Project 3 - Mini Calendar
-Project 4 - Button Ripple Effect
-Project 5 - Random Photos
-Project 6 - Dark Mode Toggle
-Project 7 - Testimonial Slider
-Project 8 - Real-Time Character Counter
-Project 9 - Digital Clock
-Project 10 - Double Landing Page
-Project 11 - Random Color Generator
-Project 12 - Rotating Image Gallery
-Project 13 - Animated Search Bar
-Project 14 - Loan Calculator
-Project 15 - New Year Countdown
-Project 16 - Pomodoro Timer
-Project 17 - Age Calculator
-Project 18 - Profile Statistics
-Project 19 - Video Trailer Pop-up
-Project 20 - Drum Kits
-Project 21 - Clock
-Project 22 - Temperature Converter
-Project 23 - BMI Calculator
-Project 24 - Sticky Navbar
-Project 25 - Random Emoji
-Project 26 - Tip Calculator
-Project 27 - Loading Bar
-Project 28 - Background Image Scroll Effect
-Project 29 - Mouse Event
-Project 30 - Dice Roll Simulator
+## 🚀 JavaScript Mini Projects
+
+1. [Heart Trail Animation](./Project01-Heart-Trail-Animation)
+2. [Auto Text Effect Animation](./Project02-Auto-Text-Effect)
+3. [Mini Calendar](./Project03-Mini-Calendar)
+4. [Button Ripple Effect](./Project04-Button-Ripple-Effect)
+5. [Random Photos](./Project05-Random-Photos)
+6. [Dark Mode Toggle](./Project06-Dark-Mode-Toggle)
+7. [Testimonial Slider](./Project07-Testimonial-Slider)
+8. [Real-Time Character Counter](./Project08-Character-Counter)
+9. [Digital Clock](./Project09-Digital-Clock)
+10. [Double Landing Page](./Project10-Double-Landing-Page)
+11. [Random Color Generator](./Project11-Random-Color-Generator)
+12. [Rotating Image Gallery](./Project12-Rotating-Image-Gallery)
+13. [Animated Search Bar](./Project13-Animated-Search-Bar)
+14. [Loan Calculator](./Project14-Loan-Calculator)
+15. [New Year Countdown](./Project15-New-Year-Countdown)
+16. [Pomodoro Timer](./Project16-Pomodoro-Timer)
+17. [Age Calculator](./Project17-Age-Calculator)
+18. [Profile Statistics](./Project18-Profile-Statistics)
+19. [Video Trailer Pop-up](./Project19-Video-Trailer-Popup)
+20. [Drum Kits](./Project20-Drum-Kits)
+21. [Clock](./Project21-Clock)
+22. [Temperature Converter](./Project22-Temperature-Converter)
+23. [BMI Calculator](./Project23-BMI-Calculator)
+24. [Sticky Navbar](./Project24-Sticky-Navbar)
+25. [Random Emoji](./Project25-Random-Emoji)
+26. [Tip Calculator](./Project26-Tip-Calculator)
+27. [Loading Bar](./Project27-Loading-Bar)
+28. [Background Image Scroll Effect](./Project28-Background-Scroll-Effect)
+29. [Mouse Event](./Project29-Mouse-Event)
+30. [Dice Roll Simulator](./Project30-Dice-Roll-Simulator)
